@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585643527 source:c:\users\吴佳杨\desktop\qg训练营第一次培训\代码和头文件\dulinklist\dulinkedlist.c
+	"../head/duLinkedList.h"
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1585643527 c:\users\吴佳杨\desktop\qg训练营第一次培训\代码和头文件\head\dulinkedlist.h
+
+1585644445 source:c:\users\吴佳杨\desktop\qg训练营第一次培训\代码和头文件\dulinklist\main.c
+	"../head/duLinkedList.h"
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+

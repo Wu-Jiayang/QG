@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585620261 source:c:\users\吴佳杨\desktop\qg训练营第一次培训\代码和头文件\linklist\linkedlist.c
+	"../head/linkedList.h"
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1585620606 c:\users\吴佳杨\desktop\qg训练营第一次培训\代码和头文件\head\linkedlist.h
+
+1585643874 source:c:\users\吴佳杨\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c
+	"../head/linkedList.h"
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
