@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586079962 source:c:\users\吴佳杨\desktop\qg训练营第二次培训\栈以及栈的应用\四则运算计算器\代码和头文件\四则运算计算器\main.c
+	"../head/四则运算计算器.h"
+	<stdlib.h>
+
+1586081857 c:\users\吴佳杨\desktop\qg训练营第二次培训\栈以及栈的应用\四则运算计算器\代码和头文件\head\四则运算计算器.h
+
+1586081857 source:c:\users\吴佳杨\desktop\qg训练营第二次培训\栈以及栈的应用\四则运算计算器\代码和头文件\四则运算计算器\四则运算计算器.c
+	"../head/四则运算计算器.h"
+	<stdlib.h>
+	<windows.h>
+
