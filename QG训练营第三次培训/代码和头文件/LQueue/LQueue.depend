@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586615900 source:c:\users\吴佳杨\desktop\qg训练营第三次培训\代码和头文件\lqueue\lqueue.c
+	"LQueue.h"
+	<string.h>
+
+1586615900 c:\users\吴佳杨\desktop\qg训练营第三次培训\代码和头文件\lqueue\lqueue.h
+	<stdlib.h>
+
+1586615900 source:c:\users\吴佳杨\desktop\qg训练营第三次培训\代码和头文件\lqueue\main.c
+	"LQueue.h"
+	<conio.h>
+	<windows.h>
+

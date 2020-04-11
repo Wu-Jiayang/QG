@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586611963 source:c:\users\吴佳杨\desktop\qg训练营第三次培训\代码和头文件\aqueue\aqueue.c
+	"AQueue.h"
+	<string.h>
+
+1586611728 c:\users\吴佳杨\desktop\qg训练营第三次培训\代码和头文件\aqueue\aqueue.h
+	<stdlib.h>
+
+1586611793 source:c:\users\吴佳杨\desktop\qg训练营第三次培训\代码和头文件\aqueue\main.c
+	"AQueue.h"
+	<conio.h>
+	<windows.h>
+
