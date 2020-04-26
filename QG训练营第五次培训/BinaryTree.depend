@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587906129 source:c:\users\吴佳杨\desktop\qg训练营第五次培训\binarytree.c
+	"BinaryTree.h"
+
+1587903416 c:\users\吴佳杨\desktop\qg训练营第五次培训\binarytree.h
+	<stdlib.h>
+	<windows.h>
+
+1587904330 source:c:\users\吴佳杨\desktop\qg训练营第五次培训\main.c
+	"BinaryTree.h"
+
